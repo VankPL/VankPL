@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VankPL
 - 👀 I’m interested in Web,Game,App 
-- 🌱 I’m currently learning C,C++
+- 🌱 I’m currently learning C++,Python,CSS,HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - facebook: https://www.facebook.com/vanhpl2002/
